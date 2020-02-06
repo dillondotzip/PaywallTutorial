@@ -1,0 +1,5 @@
+[build]
+  command = ""
+  publish = ""
+  functions = "lambda"
+  functionsSource="functions"

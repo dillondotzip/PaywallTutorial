@@ -1,0 +1,6 @@
+/web/node_modules
+/web/lambda
+/web/.next
+/web/.env
+/studio/sanity.json
+/studio/node_modules
